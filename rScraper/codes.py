@@ -1,0 +1,43 @@
+COUNTRY_CODES = {
+    "everywhere": "GLOBAL",
+    "united_states": "US",
+    "argentina": "AR",
+    "australia": "AU",
+    "bulgaria": "BG",
+    "canada": "CA",
+    "chile": "CL",
+    "columbia": "CO",
+    "croatia": "HR",
+    "czech_republic": "CZ",
+    "finland": "FI",
+    "greece": "GR",
+    "hungary": "HU",
+    "iceland": "IS",
+    "india": "IN",
+    "ireland": "IE",
+    "japan": "JP",
+    "malaysia": "MY",
+    "mexico": "MX",
+    "new_zealand": "NZ",
+    "philippines": "PH",
+    "poland": "PL",
+    "portugal": "PT",
+    "puerto_rico": "PR",
+    "romania": "RO",
+    "serbia": "RS",
+    "singapore": "SG",
+    "sweden": "SE",
+    "taiwan": "TW",
+    "thailand": "TH",
+    "turkey": "TR",
+    "united_kingdom": "GB"
+}
+
+TIME_CODES = {
+    "now": "hour",
+    "today": "day",
+    "this_week": "week",
+    "this_month": "month",
+    "this_year": "year",
+    "all_time": "all"
+}
